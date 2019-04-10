@@ -10,8 +10,8 @@ This is a library for providing more useful and powerful interface to manage you
 
 
 ## Installation
-Download the `cookie-manager.min.js` and include in your project.
+Download the `cookies-manage.min.js` and include in your project.
 
 ```html
-<script src="coockie-manager.min.js"></script>
+<script src="coockies-manage.min.js"></script>
 ```
