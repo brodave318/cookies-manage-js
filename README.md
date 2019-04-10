@@ -15,3 +15,8 @@ Download the `cookies-manage.min.js` and include in your project.
 ```html
 <script src="coockies-manage.min.js"></script>
 ```
+
+## Usage
+After include the `cookie-manager.min.js`, you will be able to use `CookieManager` object.
+
+You can also load `CookieManager` object as an AMD, CommonJS, or Node module.
