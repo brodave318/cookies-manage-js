@@ -95,3 +95,5 @@ Clears all of the existing cookies
    CookieManager.clear();
 ```
 
+## Author and License
+Created and maintained by {David Hernandez](https://github.com/brodave318) under [MIT](LICENSE.md) License
