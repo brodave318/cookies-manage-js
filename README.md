@@ -86,8 +86,6 @@ Returns all of the existing cookies
    CookieManager.getAll();
 ```
 
-- `name (String)` cookie name
-
 
 ### Clearing All Cookies
 
@@ -96,6 +94,4 @@ Clears all of the existing cookies
 ```js
    CookieManager.clear();
 ```
-
-- `name (String)` cookie name
 
